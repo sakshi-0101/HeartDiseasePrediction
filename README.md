@@ -51,7 +51,7 @@ All models are loaded using `.pkl` files and used for prediction.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/sakshi-0101/HeartDiseasePredictor.git
+git clone https://github.com/sakshi-0101/HeartDiseasePrediction.git
 cd HeartDiseasePredictor
 ```
 
