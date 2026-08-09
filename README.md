@@ -42,6 +42,7 @@ All models are loaded using `.pkl` files and used for prediction.
 ├── LogisticR.pkl          # Logistic Regression model
 ├── SVM.pkl                # SVM model
 ├── requirements.txt       # Dependencies
+├── Dockerfile             # Docker file
 ```
 
 ---
